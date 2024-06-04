@@ -1,9 +1,9 @@
 # Проектирование и реализация баз данных 2 семестр
 ## Инфокоммуникационные технологии
 ### Лекция
-[Презентация](https://github.com/VeraKasianenko/Database_2_term_ICT/tree/main/БАЗЫ_ДАННЫХ.pdf)
+[Презентация](https://github.com/CandyGoose/Database_2_term_ICT/tree/main/БАЗЫ_ДАННЫХ.pdf)
 ### Лабораторная
-[Отчет](https://github.com/VeraKasianenko/Database_2_term_ICT/tree/main/report)
+[Отчет](https://github.com/CandyGoose/Database_2_term_ICT/tree/main/report)
 
 ---
 
